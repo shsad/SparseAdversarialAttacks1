@@ -1,4 +1,4 @@
-"""The CarliniWagnerL2 attack.
+"""The CarliniWagnerL2 attack. Edited to work on a subset of pixels
     CleverHans implementation: https://github.com/cleverhans-lab/cleverhans/blob/master/cleverhans/torch/attacks/carlini_wagner_l2.py"""
 import torch
 
